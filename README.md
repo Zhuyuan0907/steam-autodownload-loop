@@ -14,3 +14,6 @@ tar -xvzf steamcmd_linux.tar.gz
 steamdownload.sh
 ```
 在下載的時候，可以順便去開另外一個Terminal觀察nload的情況
+
+成功範例：
+<img width="1919" alt="iShot_2024-09-26_00 44 25" src="https://github.com/user-attachments/assets/a215b111-4fb0-45bd-a0ca-c349de2c4aed">
