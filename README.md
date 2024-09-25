@@ -14,7 +14,7 @@ tar -xvzf steamcmd_linux.tar.gz
 steamdownload.sh
 ```
 在下載的時候，可以順便去開另外一個Terminal觀察nload的情況
-如果你不確定你steam連的server是什麼，可以至下列的網址查看你目前網路連接到的serve
+如果你不確定你steam連的server是什麼，可以至下列的網址查看你目前網路連接到的server
 https://api.steampowered.com/IContentServerDirectoryService/GetServersForSteamPipe/v1/
 
 成功範例：
